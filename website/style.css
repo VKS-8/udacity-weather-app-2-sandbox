@@ -36,10 +36,15 @@ body{
 
 .entry{
   background: rgba(59, 74, 107, .4);
+  position: absolute;
+  top: 8rem;
+  right: 3rem;
+  width: 30%;
 }
 
 
 .entryHolder{
+
 }
 
 #date{
